@@ -1,6 +1,6 @@
 ### Hey!
 
-![gif](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif)
+![gif](https://media.giphy.com/media/wsWKK6gWKJ7OfHCAZq/giphy.gif)
 
 I'm Luísa Moura, a Computer Science Student at the University of São Paulo.
 
