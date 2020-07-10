@@ -8,5 +8,5 @@ I love to learn and develop personal and professional projects. Here you can tak
 
 ### Check my social media!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lusmoura/)](https://www.linkedin.com/in/lusmoura/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/_lsmoura/)](https://www.twitter.com/_lsmoura)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luisamoura.py/)](https://www.instagram.com/luisamoura.py/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/_lsmoura/)](https://www.twitter.com/_lsmoura)
