@@ -4,7 +4,7 @@
 
 ### Who am I?
 
-I'm Luísa Moura, a Computer Science Student at the University of São Paulo. I also work as a Data Engineer at Madai and at ClickBus.
+I'm Luísa Moura, a Computer Science Student at the University of São Paulo. I also work as a Data Engineer at ClickBus.
 
 I love to learn and to develop personal and professional projects. Here you can take a look at some of them =D
 
