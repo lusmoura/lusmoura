@@ -4,7 +4,7 @@
 
 ### Who am I?
 
-I'm Luísa Moura, a Computer Science Student at the University of São Paulo. I also worked as a Solutions Engineer and Software Engineer at Meta (former Facebook).
+I'm Luísa Moura, a Computer Science Student at the University of São Paulo. Currently a Software Engineer at Cohere. I also worked as a Solutions Engineer and Software Engineer at Meta (former Facebook).
 
 I love to learn and to develop personal and professional projects. Here you can take a look at some of them =D
 
