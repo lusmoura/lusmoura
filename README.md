@@ -4,9 +4,13 @@
 
 ### Who am I?
 
-I'm Luísa Moura. I have a bachelor's degree in computer science from the University of São Paulo (USP), and I currently work as a Software Engineer at Cohere. I also worked as a Solutions Engineer and Software Engineer at Meta (former Facebook).
-
-I love to learn and to develop personal and professional projects. Here you can take a look at some of them =D
+👩‍💻 Hey there! I'm Luísa Moura, a backend Software Engineer.
+🎓 I hold a bachelor's degree in computer science from the **University of São Paulo** (USP).
+🚀 Currently, I'm a Software Engineer at **Cohere**, helping to create and deliver amazing language models.
+😎 I previously worked as a Solutions Engineer and Software Engineer at **Meta** (formerly Facebook).
+🌟 I'm all about continuous learning and love taking on personal and professional projects.
+💻 Check out my GitHub to explore some of the cool things I've been working on!
+🤓 Got questions or want to collaborate? Let's connect and make coding magic happen! ✨🤝
 
 ### Check my social media!
 
